@@ -1,0 +1,14 @@
+{
+    "name": "Subhashree",
+	"age": 26,
+	"status": true,
+	"address": {
+		"city": "Chennai",
+		"state": "Tamilnadu"
+	},
+	"courses": [
+		"Java",
+		"Selenium",
+		"Python"
+	]
+}
